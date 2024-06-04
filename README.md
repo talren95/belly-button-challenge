@@ -33,7 +33,7 @@ Steps to Complete:
    - Feel free to design the layout of your dashboard as desired.
 
 ## Repository Structure
-index.html - Main HTML file.
-static/js/app.js - JavaScript file containing D3 code for the dashboard.
-static/css/style.css - CSS file for styling the dashboard.
-samples.json - JSON file containing the dataset (linked from an external URL).
+   - index.html - Main HTML file.
+   - static/js/app.js - JavaScript file containing D3 code for the dashboard.
+   - static/css/style.css - CSS file for styling the dashboard.
+   - samples.json - JSON file containing the dataset (linked from an external URL).
